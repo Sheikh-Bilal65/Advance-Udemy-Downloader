@@ -26,12 +26,7 @@ Windows is the primary development OS, but I've made an effort to support Linux 
 
 ### Requirements
 
-The following are a list of required third-party tools, you will need to ensure they are in your systems path and that typing their name in a terminal invokes them.
-
-> [!NOTE]  
-> These are seperate requirements that are not installed with the pip command!
->
-> You will need to download and install these manually!
+The following third-party tools are required to run the script. They are **not included in this repository** and must be downloaded and installed manually, ensuring they are accessible in your system's PATH.
 
 -   [Python 3](https://python.org/)
 -   [ffmpeg](https://www.ffmpeg.org/) - This tool is also available in Linux package repositories.
