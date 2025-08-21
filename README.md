@@ -8,7 +8,7 @@ This Python script empowers you to download Udemy courses for offline access, in
 
 If this tool has helped you, consider supporting its continued development. Your contribution, no matter how small, fuels the creation of more free, powerful, and feature-rich tools like this one. Let's build amazing things together!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bilalsheikh)
+<a href="https://buymeacoffee.com/bilalsheikh" target="_blank"> <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"> </a>
 
 **Crypto Donation (Binance)**: If you prefer to pay in crypto, send money to my Binance ID: `150697028`
 
